@@ -4,12 +4,12 @@
 Email Me 👉 ✉️ **singhkunal9442@GMAIL.COM** For Collaboration/Project or Anything Else. 😊😊
 
 🔭 I’m currently working on:
-Building advanced real-estate technology systems and developing secure, custom WordPress platforms for SBH Dubai.
+Building advanced technology systems and developing secure, custom build platforms for SBH Dubai.
 
 🌱 I’m currently learning:
-Cloud Engineering, DevOps, Cybersecurity, Automation & Infrastructure Security.
+**Cloud Engineering, DevOps, Cybersecurity, Automation & Infrastructure Security.**
 
-👯 I’m looking to collaborate on:
+👯 **I’m looking to collaborate on:**
 High-performance web development, security automation tools, and enterprise-level tech solutions.
 
 🤔 I’m looking for help with:

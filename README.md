@@ -13,7 +13,7 @@ Email Me 👉 ✉️ **singhkunal9442@GMAIL.COM** For Collaboration/Project or A
 
 💬 Ask me about: Web Development, WordPress Custom Coding, Cybersecurity, SEO, Optimization
 
-📫 How to reach me: kunalsingh.work@outlook.com
+📫 How to reach me: singhkunal9442@gmail.com
 
 😄 Nickname: Hulk Boy 💪**
 

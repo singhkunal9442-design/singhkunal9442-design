@@ -1,25 +1,29 @@
 # 💫 Hi 👋, I'm Kunal Singh
-**A passionate Website Developer || Cybersecurity Learner || Real Estate Tech Builder based in Dubai 🇦🇪**
+**A dedicated Software Developer | Cybersecurity Enthusiast | Real Estate Technology Engineer based in Dubai, UAE**
 
 Email Me 👉 ✉️ **singhkunal9442@GMAIL.COM** For Collaboration/Project or Anything Else. 😊😊
 
-🔭 I’m currently working on: Real-estate tech systems & custom WordPress solutions for SBH Dubai
+🔭 I’m currently working on:
+Building advanced real-estate technology systems and developing secure, custom WordPress platforms for SBH Dubai.
 
-🌱 I’m currently learning: Cloud, DevOps, Cybersecurity, Automation
+🌱 I’m currently learning:
+Cloud Engineering, DevOps, Cybersecurity, Automation & Infrastructure Security.
 
-👯 I’m looking to collaborate on: Web development, security tools, and high-performance landing pages
+👯 I’m looking to collaborate on:
+High-performance web development, security automation tools, and enterprise-level tech solutions.
 
-🤔 I’m looking for help with: Advanced penetration testing & Cloud architecture
+🤔 I’m looking for help with:
+Advanced penetration testing, cloud architecture, and building scalable, secure infrastructures.
 
-💬 Ask me about: Web Development, WordPress Custom Coding, Cybersecurity, SEO, Optimization
+💬 Ask me about: Custom Web Development, WordPress Engineering, Cybersecurity Fundamentals, Technical SEO, Performance Optimization, Automation.
 
 📫 How to reach me: singhkunal9442@gmail.com
 
-😄 Nickname: Hulk Boy 💪**
+😄 Nickname: Hulk Boy (Professional Identity: Kunal Singh)
 
-⚡ Fun fact: I build websites faster than people make excuses 😄
+## ⚡ Fun fact:
+I deliver secure, optimized websites with the precision and speed of a full-stack engineering workflow.
 
-## 🔗 I am a Developer. 😊😊
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://in.linkedin.com/in/kunal-singh-b723a6174) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singhkunal9442@gmail.com) 

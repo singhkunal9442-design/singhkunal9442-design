@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Kunal Singh
-**A passionate Software Developer || Cybersecurity Learner || Real Estate Tech Builder based in Dubai 🇦🇪**
+**A passionate Website Developer || Cybersecurity Learner || Real Estate Tech Builder based in Dubai 🇦🇪**
 
 Email Me 👉 ✉️ **singhkunal9442@GMAIL.COM** For Collaboration/Project or Anything Else. 😊😊
 

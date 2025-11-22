@@ -15,7 +15,8 @@ High-performance web development, security automation tools, and enterprise-leve
 🤔 I’m looking for help with:
 Advanced penetration testing, cloud architecture, and building scalable, secure infrastructures.
 
-💬 Ask me about: Custom Web Development, WordPress Engineering, Cybersecurity Fundamentals, Technical SEO, Performance Optimization, Automation.
+💬 Ask me about: 
+Custom Web Development, WordPress Engineering, Cybersecurity Fundamentals, Technical SEO, Performance Optimization, Automation.
 
 📫 How to reach me: singhkunal9442@gmail.com
 

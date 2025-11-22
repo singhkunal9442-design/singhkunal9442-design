@@ -19,7 +19,7 @@ Email Me 👉 ✉️ **singhkunal9442@GMAIL.COM** For Collaboration/Project or A
 
 ⚡ Fun fact: I build websites faster than people make excuses 😄
 
-## 🔗 I am a Devekoper. 😊😊
+## 🔗 I am a Developer. 😊😊
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://in.linkedin.com/in/kunal-singh-b723a6174) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singhkunal9442@gmail.com) 
